@@ -1,4 +1,4 @@
-### Hi i dont want to fail my class
+### Hi i dont want to fail my class(es)
 
 <!--
 **sjb6400/sjb6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
